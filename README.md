@@ -1,4 +1,4 @@
-[Your Name]
+Swapnesh Tiwari
 Data Scientist & Medical Doctor
 Seasoned Data Scientist with over six years of expertise in healthcare informatics and clinical settings, and a background in medicine. Proficient in clinical information systems, data quality, Veeva Vault administration, with strong analytical and statistical skills. Expert in various programming languages and tools including R, Tableau, SAS, Python, and SQL. Dedicated to enhancing healthcare through data-driven decision-making and committed to continuous learning and professional growth.
 
