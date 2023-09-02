@@ -1,50 +1,25 @@
-Swapnesh Tiwari
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_423_752/0/1626753867110?e=1698883200&v=beta&t=58E6AL13nXDMiVpLHEn5aNMkxHeRmEMErDThukcnuQk)
+<h1 align="center">Hi 👋, I'm Swapnesh Tiwari</h1>
+<h3 align="center">A seasoned Data Scientist and Medical Doctor with over six years of experience in healthcare informatics, data analysis, and clinical settings.</h3>
 
+<img align="right" alt="Coding" width="400" src= "https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
-Data Scientist & Medical Doctor
+- 🌱 I’m currently learning **SAS**
 
-Seasoned Data Scientist with over six years of expertise in healthcare informatics and clinical settings, and a background in medicine. Proficient in clinical information systems, data quality, Veeva Vault administration, with strong analytical and statistical skills. Expert in various programming languages and tools including R, Tableau, SAS, Python, and SQL. Dedicated to enhancing healthcare through data-driven decision-making and committed to continuous learning and professional growth.
+- 👨‍💻 All of my projects are available at [https://swapneshtiwari.godaddysites.com/](https://swapneshtiwari.godaddysites.com/)
 
-Skills
+- 📝 I regularly write articles on [https://medium.com/@swapi48/time-series-analysis-of-covid-19-statistics-from-august-2020-to-november-2022-in-boston-c263d09ff1e9](https://medium.com/@swapi48/time-series-analysis-of-covid-19-statistics-from-august-2020-to-november-2022-in-boston-c263d09ff1e9)
 
-Data Analysis: R, SAS, Python, SQL, Apache Spark, Splunk, Hadoop, GIT, Microsoft Office Suite (Excel, PowerPoint, Access, Publisher, Word).
-Data Visualization: Tableau, PowerBI, Crystal Reports, Snowflake, Alteryx, Sisense, Domo, Oracle BI, QlikView/Qlik Sense.
-Healthcare Informatics: Veeva Vault, HIPAA, FDA.
-Project Management: MS Visio, Systems Development Life Cycle.
+- 💬 Ask me about **healthcare data, CDISC, Tableau, R, Python, SQL**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BxwfbkaUMnEl2PSY85OGXGM5C_o4dFc8/view?usp=sharing](https://drive.google.com/file/d/1BxwfbkaUMnEl2PSY85OGXGM5C_o4dFc8/view?usp=sharing)
 
-Education
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/swapnesh-t-29955966/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swapnesh-t-29955966/" height="30" width="40" /></a>
+</p>
 
-Master's, Professional Studies in Informatics, Northeastern University, Boston, MA
-Major in Health Analytics. Minor in Project Management.
-M.D., Doctor of Medicine, Davao Medical School Foundation, M.D
-Major in Clinical Medicine, Epidemiology, Statistics, Analytics.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-
-Experience
-
-Data Scientist / Tableau Developer, ClearSky Health, Wyoming, MA (April 2023 - Present)
-Borrower Engagement Advisor, Prodigy Finance, Remote (May 2022 - Present)
-Data Scientist, QuickFacts Inc, Remote (January 2023 - April 2023)
-Data Analyst / Tableau Developer, MUNICIPAL CORPORATION (April 2020 - December 2021)
-Clinical Data Analyst, KEM Hospital (March 2020 - December 2021)
-Data Analyst, Poona College of Pharmacy (January 2018 - December 2019)
-
-
-Languages
-
-English (Fluent)
-Hindi (Fluent)
-Spanish (Intermediate)
-Marathi (Fluent)
-Visayan (Fluent)
-Certifications and Licenses
-Analyzing and Visualizing Data with Microsoft Power BI, Microsoft.
-R Essential Training: Wrangling and Visualizing Data.
-ECFMG Certification, Educational Commission for Foreign Medical Graduates (ECFMG).
-American Heart Association Basic Life Support for Healthcare Providers Certification (BLS), (TCID: ZZ21338).
-
-
-Volunteer Experience
-Medical Doctor, Davao Medical School Foundation, Davao, Philippines (May 2016 - August 2016)
-Data Entry Manager, Wikipedia, Pune, India (January 2013 - July 2013)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drswapnesh&show_icons=true&locale=en&layout=compact" alt="drswapnesh" /></p>
