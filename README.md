@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_423_752/0/1626753867110?e=1698883200&v=beta&t=58E6AL13nXDMiVpLHEn5aNMkxHeRmEMErDThukcnuQk)
 <h1 align="center">Hi 👋, I'm Swapnesh Tiwari</h1>
-<h3 align="center">A seasoned Data Scientist and Medical Doctor with over six years of experience in healthcare informatics, data analysis, medical writing and clinical settings.</h3>
+<h3 align="center">A seasoned Data Scientist with over six years of experience in healthcare informatics, data analysis, medical writing and clinical settings.</h3>
 
 <img align="right" alt="Coding" width="400" src= "https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
