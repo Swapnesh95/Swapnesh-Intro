@@ -1,4 +1,4 @@
-![MasterHead]([https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_423_752/0/1626753867110?e=1698883200&v=beta&t=58E6AL13nXDMiVpLHEn5aNMkxHeRmEMErDThukcnuQk](https://www.bing.com/images/search?view=detailV2&ccid=DsIpnvUF&id=857760D7243F00A57711B52BFCA69164B84BDD8F&thid=OIP.DsIpnvUFCtKFEXCWLx3g5QHaFj&mediaurl=https%3a%2f%2fdigitalcreativemind.com%2fwp-content%2fuploads%2f2021%2f06%2fAnalytics_amp_Data_Science.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0ec2299ef5050ad2851170962f1de0e5%3frik%3dj91LuGSRpvwrtQ%26pid%3dImgRaw%26r%3d0&exph=450&expw=600&q=data+analyst+gif+for+github&simid=608020301452488990&FORM=IRPRST&ck=E1F3897028862C311590A53CBC779167&selectedIndex=0&itb=0&ajaxhist=0&ajaxserp=0))
+
 <h1 align="center">Hi 👋, I'm Swapnesh Tiwari</h1>
 <h3 align="center">A seasoned Data Scientist with over six years of experience in healthcare informatics, data analysis, medical writing and clinical settings.</h3>
 
